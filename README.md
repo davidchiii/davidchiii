@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 📒 I'm the maintainer of [CTF101](https://github.com/osirislab/ctf101/) and member of the [OSIRIS Lab](https://github.com/osirislab).
+- 🔭 I’m currently working on CSAW'24 Capture the Flag.
+- 🏙️ I'm located in Brooklyn, New York.
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=davidchiii&theme=tokyonight" alt="mystreak"/>
 <!--
 **davidchiii/davidchiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
